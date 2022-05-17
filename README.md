@@ -20,6 +20,4 @@ Skills: ANDROID / KOTLIN / JAVA / IOS / SWIFT
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bipulhstu)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipulhstu&layout=compact)](https://github.com/bipulhstu/github-readme-stats)
-
 ![Profile views](https://gpvc.arturio.dev/bipulhstu)  
