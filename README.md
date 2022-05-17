@@ -23,3 +23,6 @@ Skills: ANDROID / KOTLIN / JAVA / IOS / SWIFT
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bipulhstu)  
 
 ![Profile views](https://gpvc.arturio.dev/bipulhstu)  
+
+| <a href="https://github.com/bipulhstu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bipulhstu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bipul Islam's github stats" /></a> | <a href="https://github.com/bipulhstu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipulhstu&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
