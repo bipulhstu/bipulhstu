@@ -4,9 +4,9 @@ Hi, I'm a Professional Android &iOS Application Developer with 3+ years of solid
 
 Skills: ANDROID / KOTLIN / JAVA / IOS / SWIFT
 
-- 🔭 I’m currently working on Walton Tick V2 Android & iOS Application. 
-- 🌱 I’m currently learning Java Spring 
-- 🤔 I’m looking for help with advanced iOS application development. 
+- 🔭 I’m currently working on Android & iOS Application Development. 
+- 🌱 I’m currently learning Java Spring for Backend development.
+- 🤔 I’m currently also learning backend development using Ktor. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bipulhstu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]
